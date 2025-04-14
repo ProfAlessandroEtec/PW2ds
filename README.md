@@ -1,4 +1,4 @@
-Atividade do dia 09/04/2025
+Desenvovimento de site para realizar CRUD
 
 
-Formulário  e Inserçao no banco
+O site será semelhante a um portal com um formulário para captação de LEADS e uma listagem de produtos, que será dinâmico 
