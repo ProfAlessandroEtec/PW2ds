@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Landing page de exemplo com formulário e apresentação de produtos ou serviços.">
     <title>Minha Landing Page Legal</title>
 <link rel="stylesheet" href="style.css">
 </head>
@@ -14,7 +15,7 @@
         <p>Uma descrição curta e impactante do seu produto ou serviço.</p>
         <a href="#conteudo" class="botao">Saiba Mais</a>
     </header>
-
+<main>
     <section id="conteudo">
         <h2>O que oferecemos</h2>
         <div class="cards">
@@ -49,7 +50,7 @@
         </form>
     </section>
 
-
+<main>
 
     <footer>
         <p>&copy; 2024 Minha Landing Page. Todos os direitos reservados.</p>
